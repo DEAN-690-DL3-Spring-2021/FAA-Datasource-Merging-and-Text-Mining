@@ -1,4 +1,4 @@
-# Initial-Data-Merging
+# Data-Merging
 Data Merging conducted using Python Fuzzy matcher
 
 # Problem Statement 
