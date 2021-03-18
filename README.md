@@ -1,4 +1,4 @@
-# Data-Merging
+# Data Datasource Combination and Text Mining
 Data Merging conducted using Python Fuzzy matcher
 
 # Problem Statement 
