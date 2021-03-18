@@ -10,14 +10,14 @@ Fuzzy join also known as  similarity join is a binary operation that takes two s
 # Requirements
 Minimum requirements:
 
--[]Python 2.7+
-NumPy 1.10+
-Chainer 1.5.1+
-spaCy 0.99+
-Requirements for some features:
+*Python 2.7+
+*NumPy 1.10+
+*Chainer 1.5.1+
+*spaCy 0.99+
+*Requirements for some features:
 
-CUDA support
-Testing utilities: py.test
+*CUDA support
+*Testing utilities: py.test
 
 # Related Links from IEEE
 https://ieeexplore-ieee-org.mutex.gmu.edu/document/687477
