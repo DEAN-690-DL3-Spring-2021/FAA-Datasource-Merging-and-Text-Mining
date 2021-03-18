@@ -7,6 +7,18 @@ The Federal Aviation Administration uses numerous data repositories to document 
 # Alogorithm: Fuzzy Matching, Natural Language Processing, Topic Modeling 
 Fuzzy join also known as  similarity join is a binary operation that takes two sets of elements as input and computes a set of similar element-pairs as output . Instead of marking out records as a ‘match’ or ‘non-match’, fuzzy matching identifies the probability that two records actually match based on whether they agree or disagree on the various identifiers. This is different compared to exact joins where records are matched based on the common keys. Fuzzy matching allows us to identify non-exact matches of target items. Generally, fuzzy matching is an algorithm for linking text to similar text.
 
+# Requirements
+Minimum requirements:
+
+Python 2.7+
+NumPy 1.10+
+Chainer 1.5.1+
+spaCy 0.99+
+Requirements for some features:
+
+CUDA support
+Testing utilities: py.test
+
 # Related Links from IEEE
 https://ieeexplore-ieee-org.mutex.gmu.edu/document/687477
 https://ieeexplore-ieee-org.mutex.gmu.edu/document/616348
