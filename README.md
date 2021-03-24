@@ -20,6 +20,13 @@ LDA stands for Latent Dirichlet Allocation. As time is passing by, data is incre
 
 
 
+https://user-images.githubusercontent.com/61568065/112359458-a922f680-8ca7-11eb-8a45-a47ef036a631.mp4
+
+
+
+
+
+
 # Requirements
 Minimum requirements:
 
