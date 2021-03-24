@@ -17,7 +17,7 @@ LDA stands for Latent Dirichlet Allocation. As time is passing by, data is incre
 (2)Documents are probability distribution over topics:
 ![github TM assumption 2](https://user-images.githubusercontent.com/61568065/112354604-3ca5f880-8ca3-11eb-9d2b-f4f3115d4b1b.PNG)
 
-# Topic Modeling Visualization 
+# LDA Visualizations 
 ![zoom_0](https://user-images.githubusercontent.com/61568065/112365573-323d2c00-8cae-11eb-8b76-d53f4236950f.gif)
 ![zoom_1](https://user-images.githubusercontent.com/61568065/112366427-2bfb7f80-8caf-11eb-9bf2-22ce0f131930.gif)
 
