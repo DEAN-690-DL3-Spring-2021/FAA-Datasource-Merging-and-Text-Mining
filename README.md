@@ -12,6 +12,8 @@ Topic modeling is an algorithm for extracting topics from a collection of docume
 
 # Topic Modeling: Latent Dirichlet Allocation (LDA) Assumptions
 ![github TM assumption 1](https://user-images.githubusercontent.com/61568065/112349648-4a597f00-8c9f-11eb-818e-38de993f9ce6.PNG)
+![github TM assumption 2](https://user-images.githubusercontent.com/61568065/112354604-3ca5f880-8ca3-11eb-9d2b-f4f3115d4b1b.PNG)
+
 
 
 
