@@ -8,6 +8,7 @@ The Federal Aviation Administration uses numerous data repositories to document 
 Fuzzy join also known as  similarity join is a binary operation that takes two sets of elements as input and computes a set of similar element-pairs as output . Instead of marking out records as a ‘match’ or ‘non-match’, fuzzy matching identifies the probability that two records actually match based on whether they agree or disagree on the various identifiers. This is different compared to exact joins where records are matched based on the common keys. Fuzzy matching allows us to identify non-exact matches of target items. Generally, fuzzy matching is an algorithm for linking text to similar text.
 
 # Topic Modeling: Latent Dirichlet Allocation (LDA) Assumptions
+![github TM assumption 1](https://user-images.githubusercontent.com/61568065/112349648-4a597f00-8c9f-11eb-818e-38de993f9ce6.PNG)
 
 
 
