@@ -28,8 +28,8 @@ Minimum requirements:
 * NumPy 1.10+
 * Chainer 1.5.1+
 * spaCy 0.99+
-* Requirements for some features:
 
+Requirements for some features:
 * CUDA support
 * Testing utilities: py.test
 
