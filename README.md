@@ -13,7 +13,9 @@ Topic modeling is an algorithm for extracting topics from a collection of docume
 LDA stands for Latent Dirichlet Allocation. As time is passing by, data is increasing exponentially. Most of the data is unstructured and a few of them are unlabeled. It is a tedious task to label each and every data manually. How can we label such a huge amount of data if not manually? Here comes the LDA to our rescue. LDA is one of the topic modeling techniques which is used to analyze a huge amount of data, cluster them into similar groups, and label each group. It should be noted that LDA technique is for unsupervised learning which is used to label the data by grouping them into similar topics. Unlike K-Means clustering and other clustering techniques which uses the concept of distance between cluster center, LDA works on the probability distribution of topics belonging to the document.
 
 # LDA Assumptions
+(1) Topics are probability distribution over words:
 ![github TM assumption 1](https://user-images.githubusercontent.com/61568065/112349648-4a597f00-8c9f-11eb-818e-38de993f9ce6.PNG)
+(2)Documents are probability distribution over topics:
 ![github TM assumption 2](https://user-images.githubusercontent.com/61568065/112354604-3ca5f880-8ca3-11eb-9d2b-f4f3115d4b1b.PNG)
 
 # Requirements
