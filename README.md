@@ -17,8 +17,8 @@ LDA stands for Latent Dirichlet Allocation. As time is passing by, data is incre
 (2)Documents are probability distribution over topics:
 ![github TM assumption 2](https://user-images.githubusercontent.com/61568065/112354604-3ca5f880-8ca3-11eb-9d2b-f4f3115d4b1b.PNG)
 
-# LDA Keywords Visualizations 
-The visulization demonstrates the keywords of the topics and showing frequency of the key works for each topic. The follwing visualizations display the top 40 topics and top 20 topics.
+# pyLDAVis
+pyLDAVisThe visulization demonstrates the keywords of the topics and showing frequency of the key works for each topic. The follwing visualizations display the top 40 topics and top 20 topics.
 ![LDA Visual Screen Record](https://user-images.githubusercontent.com/61568065/112412974-ca123880-8cf5-11eb-9db8-5b9dd0e83e18.gif)
 ![@nd LDA Visual](https://user-images.githubusercontent.com/61568065/112413700-06926400-8cf7-11eb-9ce4-d74896fb9f6b.gif)
 
