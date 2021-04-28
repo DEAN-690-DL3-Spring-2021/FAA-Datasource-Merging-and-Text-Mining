@@ -11,8 +11,8 @@ Structural Topic Modelling (STM) is a model which is used to estimate a topic mo
 
 # STM parallel workflow diagram
 The diagram below represents the parallel workflow in the STM algorithm. The STM algorithm ingests the text or description column along with the associated metadata and it will pass it to textProcessor and then to a utility function (prepDocuments). This function automatically removes infrequent terms based on the set parameters. The output documents and metadata will be used for analysis and the results will be estimated for both topical prevalence and topical contents. The next step as shown in the STM parallel workflow diagram, will be the model selection and search, and understanding the topics and labeling them. Finally the results can be visualized based on topics’ prevalence
+<img width="478" alt="Amazon_SageMaker" src="https://user-images.githubusercontent.com/61568065/116450656-8d23ef00-a829-11eb-86b6-f7ebaae5790e.png">
 
-[AWS git flow chat.pptx](https://github.com/DEAN-690-DL3-Spring-2021/FAA-Datasource-Merging-and-Text-Mining/files/6393811/AWS.git.flow.chat.pptx)
 
 
 # Latent Dirichlet Allocation (LDA) Theory and Assumptions
