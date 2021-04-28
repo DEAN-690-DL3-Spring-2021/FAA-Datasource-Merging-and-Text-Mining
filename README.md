@@ -11,9 +11,7 @@ Structural Topic Modelling (STM) is a model which is used to estimate a topic mo
 
 # STM parallel workflow diagram
 The diagram below represents the parallel workflow in the STM algorithm. The STM algorithm ingests the text or description column along with the associated metadata and it will pass it to textProcessor and then to a utility function (prepDocuments). This function automatically removes infrequent terms based on the set parameters. The output documents and metadata will be used for analysis and the results will be estimated for both topical prevalence and topical contents. The next step as shown in the STM parallel workflow diagram, will be the model selection and search, and understanding the topics and labeling them. Finally the results can be visualized based on topics’ prevalence
-<img width="478" alt="Amazon_SageMaker" src="https://user-images.githubusercontent.com/61568065/116450656-8d23ef00-a829-11eb-86b6-f7ebaae5790e.png">
-
-
+![STM diagram](https://user-images.githubusercontent.com/61568065/116450855-cbb9a980-a829-11eb-98da-c36dd07dd2f2.PNG)
 
 # Latent Dirichlet Allocation (LDA) Theory and Assumptions
 LDA stands for Latent Dirichlet Allocation. As time is passing by, data is increasing exponentially. Most of the data is unstructured and a few of them are unlabeled. It is a tedious task to label each and every data manually. How can we label such a huge amount of data if not manually? Here comes the LDA to our rescue. LDA is one of the topic modeling techniques which is used to analyze a huge amount of data, cluster them into similar groups, and label each group. It should be noted that LDA technique is for unsupervised learning which is used to label the data by grouping them into similar topics. Unlike K-Means clustering and other clustering techniques which uses the concept of distance between cluster center, LDA works on the probability distribution of topics belonging to the document.
