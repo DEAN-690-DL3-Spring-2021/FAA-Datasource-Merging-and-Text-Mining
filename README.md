@@ -1,4 +1,4 @@
-# Datasets Combination and Text Mining
+# Data source Combination and Text Mining
 The project aims to form the mechanism of data interaction and sharing between heterogeneous data sources in an elaborate system environment. The known issues that need to be addressed to accomplish the project’s objective are the data quality issues, duplicate data, scalability, multiple copies of record from several data sources that leads to unreliable data integration at the end. Therefore, the project study will puzzle out the major challenges of data merging, and therefore basically merge the data from disparate data sources into a single unified view in order to conduct the centralized analysis of the new data set to uncover the valuable insight. In addtion, the project will explore the insight extraction by using Structural Topic Modelling (STM) which is one of the Natural Language Processing (NLP) to highlight the key information from text corpus which is the remark column. 
 
 # Problem Statement 
