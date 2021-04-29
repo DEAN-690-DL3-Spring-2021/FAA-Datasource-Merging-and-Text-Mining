@@ -13,8 +13,8 @@ Structural Topic Modelling (STM) is a model which is used to estimate a topic mo
 The diagram below represents the parallel workflow in the STM algorithm. The STM algorithm ingests the text or description column along with the associated metadata and it will pass it to textProcessor and then to a utility function (prepDocuments). This function automatically removes infrequent terms based on the set parameters. The output documents and metadata will be used for analysis and the results will be estimated for both topical prevalence and topical contents. The next step as shown in the STM parallel workflow diagram, will be the model selection and search, and understanding the topics and labeling them. Finally the results can be visualized based on topics’ prevalence
 ![STM diagram](https://user-images.githubusercontent.com/61568065/116450855-cbb9a980-a829-11eb-98da-c36dd07dd2f2.PNG)
 
-
-Let’s combine these to understand the topic prevalence in the Hacker News corpus, and which words contribute to each topic.
+# Top 25 topic by prevalence in SDR, AID and EON
+The visulizations to understand the topic prevalence in the text corpus of each dataset, and which words contribute to each topic.
 ![SDR topic visual](https://user-images.githubusercontent.com/61568065/116598190-8a420080-a8f4-11eb-9f8b-e992ebf47aa6.png)
 ![AID topic visual](https://user-images.githubusercontent.com/61568065/116598198-8c0bc400-a8f4-11eb-9d17-bcb6cca97102.png)
 ![EON topic visual](https://user-images.githubusercontent.com/61568065/116598208-8dd58780-a8f4-11eb-95ed-6eb23b17ff08.png)
@@ -25,11 +25,13 @@ Minimum requirements:
 
 * Python 2.7+
 * NumPy 1.10+
-* Chainer 1.5.1+
-* spaCy 0.99+
+* Fuzzy matcher
 
-Requirements for some features:
-* CUDA support
-* Testing utilities: py.test
+*STM
+*TM
+*Stminsights
+*Lubridate
+*wordclod
+
 
 
