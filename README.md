@@ -27,6 +27,7 @@ Python
 * Python 2.7+
 * NumPy 1.10+
 * Fuzzy matcher
+
 R 
 * STM
 * TM
