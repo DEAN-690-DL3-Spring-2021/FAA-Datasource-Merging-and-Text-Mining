@@ -23,10 +23,11 @@ The visulizations to understand the topic prevalence in the text corpus of each 
 # Requirements
 Minimum requirements:
 
+Python
 * Python 2.7+
 * NumPy 1.10+
 * Fuzzy matcher
-
+R 
 * STM
 * TM
 * Stminsights
