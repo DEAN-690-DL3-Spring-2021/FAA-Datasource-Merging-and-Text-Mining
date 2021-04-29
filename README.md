@@ -13,19 +13,11 @@ Structural Topic Modelling (STM) is a model which is used to estimate a topic mo
 The diagram below represents the parallel workflow in the STM algorithm. The STM algorithm ingests the text or description column along with the associated metadata and it will pass it to textProcessor and then to a utility function (prepDocuments). This function automatically removes infrequent terms based on the set parameters. The output documents and metadata will be used for analysis and the results will be estimated for both topical prevalence and topical contents. The next step as shown in the STM parallel workflow diagram, will be the model selection and search, and understanding the topics and labeling them. Finally the results can be visualized based on topics’ prevalence
 ![STM diagram](https://user-images.githubusercontent.com/61568065/116450855-cbb9a980-a829-11eb-98da-c36dd07dd2f2.PNG)
 
-# Latent Dirichlet Allocation (LDA) Theory and Assumptions
-LDA stands for Latent Dirichlet Allocation. As time is passing by, data is increasing exponentially. Most of the data is unstructured and a few of them are unlabeled. It is a tedious task to label each and every data manually. How can we label such a huge amount of data if not manually? Here comes the LDA to our rescue. LDA is one of the topic modeling techniques which is used to analyze a huge amount of data, cluster them into similar groups, and label each group. It should be noted that LDA technique is for unsupervised learning which is used to label the data by grouping them into similar topics. Unlike K-Means clustering and other clustering techniques which uses the concept of distance between cluster center, LDA works on the probability distribution of topics belonging to the document.
 
-(1) Topics are probability distribution over words:
-![github TM assumption 1](https://user-images.githubusercontent.com/61568065/112349648-4a597f00-8c9f-11eb-818e-38de993f9ce6.PNG)
-(2)Documents are probability distribution over topics:
-![github TM assumption 2](https://user-images.githubusercontent.com/61568065/112354604-3ca5f880-8ca3-11eb-9d2b-f4f3115d4b1b.PNG)
-
-# pyLDAVis
-pyLDAVis is the most commonly used and a nice way to visualise the information contained in a topic model. Below is the implementation for LdaModel(). The visulization demonstrates the keywords of the topics and showing frequency of the key works for each topic. The follwing visualizations display the top 40 topics and top 20 topics.
-![LDA Visual Screen Record](https://user-images.githubusercontent.com/61568065/112412974-ca123880-8cf5-11eb-9db8-5b9dd0e83e18.gif)
-![@nd LDA Visual](https://user-images.githubusercontent.com/61568065/112413700-06926400-8cf7-11eb-9ce4-d74896fb9f6b.gif)
-
+Let’s combine these to understand the topic prevalence in the Hacker News corpus, and which words contribute to each topic.
+![SDR topic visual](https://user-images.githubusercontent.com/61568065/116598190-8a420080-a8f4-11eb-9f8b-e992ebf47aa6.png)
+![AID topic visual](https://user-images.githubusercontent.com/61568065/116598198-8c0bc400-a8f4-11eb-9d17-bcb6cca97102.png)
+![EON topic visual](https://user-images.githubusercontent.com/61568065/116598208-8dd58780-a8f4-11eb-95ed-6eb23b17ff08.png)
 
 
 # Requirements
