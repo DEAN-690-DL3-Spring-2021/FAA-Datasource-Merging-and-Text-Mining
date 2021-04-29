@@ -26,11 +26,12 @@ Minimum requirements:
 * Python 2.7+
 * NumPy 1.10+
 * Fuzzy matcher
-*STM
-*TM
-*Stminsights
-*Lubridate
-*wordclod
+
+* STM
+* TM
+* Stminsights
+* Lubridate
+* wordclod
 
 
 
