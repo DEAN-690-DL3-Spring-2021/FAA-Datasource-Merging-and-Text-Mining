@@ -15,9 +15,7 @@ The diagram below represents the parallel workflow in the STM algorithm. The STM
 
 # Top 25 topic by prevalence in SDR, AID and EON
 The visulizations to understand the topic prevalence in the text corpus of each dataset, and which words contribute to each topic.
-![SDR topic visual](https://user-images.githubusercontent.com/61568065/116598190-8a420080-a8f4-11eb-9f8b-e992ebf47aa6.png)
-![AID topic visual](https://user-images.githubusercontent.com/61568065/116598198-8c0bc400-a8f4-11eb-9d17-bcb6cca97102.png)
-![EON topic visual](https://user-images.githubusercontent.com/61568065/116598208-8dd58780-a8f4-11eb-95ed-6eb23b17ff08.png)
+
 
 
 # Requirements
