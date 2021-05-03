@@ -1,3 +1,5 @@
+![AID vis 1](https://user-images.githubusercontent.com/61568065/116832596-91327280-ab83-11eb-8dcf-8975d0dba469.png)
+![AID vis 1](https://user-images.githubusercontent.com/61568065/116832602-998aad80-ab83-11eb-8bed-4b4bd6ce6cc3.png)
 # Federal Aviation Administration (FAA) Data source Combination and Text Mining
 The project aims to form the mechanism of data interaction and sharing between heterogeneous data sources in an elaborate system environment. The known issues that need to be addressed to accomplish the project’s objective are the data quality issues, duplicate data, scalability, multiple copies of record from several data sources that leads to unreliable data integration at the end. Therefore, the project study will puzzle out the major challenges of data merging, and therefore basically merge the data from disparate data sources into a single unified view in order to conduct the centralized analysis of the new data set to uncover the valuable insight. In addtion, the project will explore the insight extraction by using Structural Topic Modelling (STM) which is one of the Natural Language Processing (NLP) to highlight the key information from text corpus which is the remark column. 
 
@@ -15,6 +17,9 @@ The diagram below represents the parallel workflow in the STM algorithm. The STM
 
 # Top 25 topic by prevalence in SDR, AID and EON
 The visulizations to understand the topic prevalence in the text corpus of each dataset, and which words contribute to each topic.
+![AID vis 1](https://user-images.githubusercontent.com/61568065/116832612-a14a5200-ab83-11eb-8194-08a7d7b45d27.png)
+![AID vis 3](https://user-images.githubusercontent.com/61568065/116832613-a5766f80-ab83-11eb-9e7d-1a7b19dfa870.png)
+![EON vis 2](https://user-images.githubusercontent.com/61568065/116832618-a7d8c980-ab83-11eb-8f5e-b97fba3d8077.png)
 
 
 
