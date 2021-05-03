@@ -13,7 +13,7 @@ Structural Topic Modelling (STM) is a model which is used to estimate a topic mo
 The diagram below represents the parallel workflow in the STM algorithm. The STM algorithm ingests the text or description column along with the associated metadata and it will pass it to textProcessor and then to a utility function (prepDocuments). This function automatically removes infrequent terms based on the set parameters. The output documents and metadata will be used for analysis and the results will be estimated for both topical prevalence and topical contents. The next step as shown in the STM parallel workflow diagram, will be the model selection and search, and understanding the topics and labeling them. Finally the results can be visualized based on topics’ prevalence
 ![STM diagram](https://user-images.githubusercontent.com/61568065/116450855-cbb9a980-a829-11eb-98da-c36dd07dd2f2.PNG)
 
-# Top 25 topic by prevalence in SDR, AID and EON
+# Top 15 topic by prevalence in SDR, AID and EON
 The visulizations to understand the topic prevalence in the text corpus of each dataset, and which words contribute to each topic.
 
 ![EON vis 2](https://user-images.githubusercontent.com/61568065/116832618-a7d8c980-ab83-11eb-8f5e-b97fba3d8077.png)
