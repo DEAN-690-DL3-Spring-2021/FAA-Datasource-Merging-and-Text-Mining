@@ -34,13 +34,13 @@ R
 * Lubridate
 * wordclod
 
-# The process of Execution Python
-* Run the 'Required Libraries' section
-* Upload 'AID-a_file', 'AID-e_file', 'SDR', 'EON' year-wise datasets
-* Run 'AID Data Analysis' section
-* Run 'E-File AID Data Analysis' section
-* Run 'SDR Data Analysis' section
-* Run 'EON Data Analysis' section
-* Run 'STM.csv to be used in R' section and upload the individual csv files of AID, SDR and EON to the working directory of R Code
-* After running the R code, upload the csv files obtained for each dataset AID, SDR and EON and then run 'Merging of Keywords Column from R'
-* Run 'Fuzzy Merging' section
+# The process of Execution Python and R
+* (1) Run the 'Required Libraries' section
+* (2) Upload 'AID-a_file', 'AID-e_file', 'SDR', 'EON' year-wise datasets
+* (3) Run 'AID Data Analysis' section
+* (4) Run 'E-File AID Data Analysis' section
+* (5) Run 'SDR Data Analysis' section
+* (6) Run 'EON Data Analysis' section
+* (7) Run 'STM.csv to be used in R' section and upload the individual csv files of AID, SDR and EON to the working directory of R Code
+* (8) After running the R code, upload the csv files obtained for each dataset AID, SDR and EON and then run 'Merging of Keywords Column from R'
+* (9) Run 'Fuzzy Merging' section
