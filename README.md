@@ -36,11 +36,11 @@ R
 
 # The process of Execution Python
 * Run the 'Required Libraries' section
-*Upload 'AID-a_file', 'AID-e_file', 'SDR', 'EON' year-wise datasets
-*Run 'AID Data Analysis' section
-*Run 'E-File AID Data Analysis' section
-*Run 'SDR Data Analysis' section
-*Run 'EON Data Analysis' section
-*Run 'STM.csv to be used in R' section and upload the individual csv files of AID, SDR and EON to the working directory of R Code
-*After running the R code, upload the csv files obtained for each dataset AID, SDR and EON and then run 'Merging of Keywords Column from R'
-*Run 'Fuzzy Merging' section
+* Upload 'AID-a_file', 'AID-e_file', 'SDR', 'EON' year-wise datasets
+* Run 'AID Data Analysis' section
+* Run 'E-File AID Data Analysis' section
+* Run 'SDR Data Analysis' section
+* Run 'EON Data Analysis' section
+* Run 'STM.csv to be used in R' section and upload the individual csv files of AID, SDR and EON to the working directory of R Code
+* After running the R code, upload the csv files obtained for each dataset AID, SDR and EON and then run 'Merging of Keywords Column from R'
+* Run 'Fuzzy Merging' section
