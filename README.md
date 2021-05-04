@@ -34,7 +34,7 @@ R
 * Lubridate
 * wordclod
 
-# The process of Execution: Python and R
+# The Process of Execution: Python and R
 * (1) Run the 'Required Libraries' section
 * (2) Upload 'AID-a_file', 'AID-e_file', 'SDR', 'EON' year-wise datasets
 * (3) Run 'AID Data Analysis' section
