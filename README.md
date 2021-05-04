@@ -13,7 +13,7 @@ Structural Topic Modelling (STM) is a model which is used to estimate a topic mo
 The diagram below represents the parallel workflow in the STM algorithm. The STM algorithm ingests the text or description column along with the associated metadata and it will pass it to textProcessor and then to a utility function (prepDocuments). This function automatically removes infrequent terms based on the set parameters. The output documents and metadata will be used for analysis and the results will be estimated for both topical prevalence and topical contents. The next step as shown in the STM parallel workflow diagram, will be the model selection and search, and understanding the topics and labeling them. Finally the results can be visualized based on topics’ prevalence
 ![STM diagram](https://user-images.githubusercontent.com/61568065/116450855-cbb9a980-a829-11eb-98da-c36dd07dd2f2.PNG)
 
-# Top 15 topic by prevalence in SDR, AID and EON
+# Top topics by prevalence in SDR, AID and EON
 The visulizations to understand the topic prevalence in the text corpus of each dataset, and which words contribute to each topic.
 ![SDR vis](https://user-images.githubusercontent.com/61568065/116951025-d2468780-ac54-11eb-85f0-f94351bb28b8.png)
 ![AID vis](https://user-images.githubusercontent.com/61568065/116951042-da062c00-ac54-11eb-8c12-3fbe9c5500d9.png)
@@ -34,5 +34,13 @@ R
 * Lubridate
 * wordclod
 
-# The process of Execution
-
+# The process of Execution Python
+* Run the 'Required Libraries' section
+*Upload 'AID-a_file', 'AID-e_file', 'SDR', 'EON' year-wise datasets
+*Run 'AID Data Analysis' section
+*Run 'E-File AID Data Analysis' section
+*Run 'SDR Data Analysis' section
+*Run 'EON Data Analysis' section
+*Run 'STM.csv to be used in R' section and upload the individual csv files of AID, SDR and EON to the working directory of R Code
+*After running the R code, upload the csv files obtained for each dataset AID, SDR and EON and then run 'Merging of Keywords Column from R'
+*Run 'Fuzzy Merging' section
