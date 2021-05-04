@@ -17,7 +17,7 @@ The diagram below represents the parallel workflow in the STM algorithm. The STM
 The visulizations to understand the topic prevalence in the text corpus of each dataset, and which words contribute to each topic.
 ![SDR vis](https://user-images.githubusercontent.com/61568065/116951025-d2468780-ac54-11eb-85f0-f94351bb28b8.png)
 ![AID vis](https://user-images.githubusercontent.com/61568065/116952322-60703d00-ac58-11eb-9819-a93b71272524.png)
-![EON vis](https://user-images.githubusercontent.com/61568065/116951054-e25e6700-ac54-11eb-8092-df060d29274a.png)
+![EON vis](https://user-images.githubusercontent.com/61568065/116952420-a1685180-ac58-11eb-880c-7c360e54c9ec.png)
 
 # Requirements
 Minimum requirements:
