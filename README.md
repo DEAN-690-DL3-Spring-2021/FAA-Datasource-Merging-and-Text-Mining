@@ -15,11 +15,9 @@ The diagram below represents the parallel workflow in the STM algorithm. The STM
 
 # Top 15 topic by prevalence in SDR, AID and EON
 The visulizations to understand the topic prevalence in the text corpus of each dataset, and which words contribute to each topic.
-![SDR vis](https://user-images.githubusercontent.com/61568065/116834239-22f1ae00-ab8b-11eb-87e3-a04335c8e781.png)
-![AID vis](https://user-images.githubusercontent.com/61568065/116834489-5c76e900-ab8c-11eb-8fb0-229983c8424b.png)
-![EON vis 2](https://user-images.githubusercontent.com/61568065/116832618-a7d8c980-ab83-11eb-8f5e-b97fba3d8077.png)
-
-
+![SDR vis](https://user-images.githubusercontent.com/61568065/116951025-d2468780-ac54-11eb-85f0-f94351bb28b8.png)
+![AID vis](https://user-images.githubusercontent.com/61568065/116951042-da062c00-ac54-11eb-8c12-3fbe9c5500d9.png)
+![EON vis](https://user-images.githubusercontent.com/61568065/116951054-e25e6700-ac54-11eb-8092-df060d29274a.png)
 
 # Requirements
 Minimum requirements:
@@ -36,5 +34,5 @@ R
 * Lubridate
 * wordclod
 
-
+# The process of Execution
 
