@@ -20,7 +20,7 @@ The visulizations to understand the topic prevalence in the text corpus of each 
 ![EON vis](https://user-images.githubusercontent.com/61568065/116952420-a1685180-ac58-11eb-880c-7c360e54c9ec.png)
 
 # Requirements
-Minimum requirements:
+Rerquired Packages:
 
 Python
 * Python 2.7+
